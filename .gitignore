@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+.env
+.venv
+venv/
+
+.DS_Store
+
+# Optional: comment out if you WANT to track the model
+# *.pkl
